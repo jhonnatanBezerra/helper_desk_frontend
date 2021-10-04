@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Allison&family=Architects+Daughter&family=Lobster&family=Roboto:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body,
+textarea {
+  font: 400 0.875rem Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Paleta de cores
+
+#053742 -> rgb(5, 55, 66)
+#39A2DB -> rgb(57, 162, 219)
+#A2DBFA -> rgb(162, 219, 250)
+#E8F0F2 -> rgb(232, 240, 242)
+
+
+*/
